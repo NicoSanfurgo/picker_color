@@ -1,1 +1,2 @@
-# picker_color
+# Picker Color
+HTML, CSS, JS
